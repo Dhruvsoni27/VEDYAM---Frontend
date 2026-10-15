@@ -1,0 +1,6 @@
+{
+  "name": "Vedyam — Ayurvedic Wellness & Formulations",
+  "description": "Authentic Ayurvedic formulations rooted in classical heritage and manufactured with modern pharmaceutical quality standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
